@@ -47,5 +47,6 @@ rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(644,root,root,755)
+%dir %{perl_vendorlib}/Cache/Simple/
 %{perl_vendorlib}/Cache/Simple/*.pm
 %{_mandir}/man3/*
