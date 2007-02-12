@@ -6,7 +6,7 @@
 %define	pdir	Cache
 %define	pnam	Simple-TimedExpiry
 Summary:	Cache::Simple::TimedExpiry - cache for a period of time
-Summary(pl):	Cache::Simple::TimedExpiry - buforowanie na okre∂lony czas
+Summary(pl.UTF-8):   Cache::Simple::TimedExpiry - buforowanie na okre≈õlony czas
 Name:		perl-Cache-Simple-TimedExpiry
 Version:	0.23
 Release:	1
@@ -23,8 +23,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Cache::Simple::TimedExpiry - cache for a period of time.
 
-%description -l pl
-Cache::Simple::TimedExpiry - buforowanie na okre∂lony czas.
+%description -l pl.UTF-8
+Cache::Simple::TimedExpiry - buforowanie na okre≈õlony czas.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
