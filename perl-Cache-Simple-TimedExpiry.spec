@@ -8,13 +8,13 @@
 Summary:	Cache::Simple::TimedExpiry - cache for a period of time
 Summary(pl.UTF-8):	Cache::Simple::TimedExpiry - buforowanie na określony czas
 Name:		perl-Cache-Simple-TimedExpiry
-Version:	0.23
+Version:	0.27
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	35cb46fc96272591db75491c9250a48d
+# Source0-md5:	4ef124ab7776f3c257b9ffbed917e67a
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
