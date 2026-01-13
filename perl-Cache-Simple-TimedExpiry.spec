@@ -8,7 +8,7 @@ Summary:	Cache::Simple::TimedExpiry - cache for a period of time
 Summary(pl.UTF-8):	Cache::Simple::TimedExpiry - buforowanie na określony czas
 Name:		perl-Cache-Simple-TimedExpiry
 Version:	0.27
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
